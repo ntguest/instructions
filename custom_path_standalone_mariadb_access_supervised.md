@@ -56,6 +56,7 @@ md /dbase
 lsblk
 fdisk -l
 ```
+*сделаем вид, что карта памяти называется sdb1*
 - Смотрим UID пользователя mysql
 ```bash
 id -u mysql
