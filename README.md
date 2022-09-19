@@ -7,7 +7,7 @@
 
 
 
-[![Donate](https://img.shields.io/badge/donate-Pizza-yellow.svg)](https://www.buymeacoffee.com/ntguest)
+[![Donate](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
 [![Donate](https://img.shields.io/badge/donate-Yandex-blueviolet.svg)](https://yoomoney.ru/to/410011383527168)
 [![Donate](https://img.shields.io/badge/ask-Telegram-blue.svg)](https://t.me/avkulikoff)
 
