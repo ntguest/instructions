@@ -67,4 +67,9 @@ automation:
       - service: rest_command.keenetic_reboot
         data: {}
 ```
+
+![image](https://user-images.githubusercontent.com/69485846/224307451-7a85c4c2-ce25-41f8-b3a4-1b0c423a8a97.png)
+
+
+
 http://docs.help.keenetic.com/cli/3.1/ru/cli_manual_kn-1711_ru.pdf
