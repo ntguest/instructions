@@ -21,7 +21,7 @@ sensor:
           {%- set mem = value_json.memory-%}
           {%- set memfree = mem.split('/')[0]|int(0)-%}
           {%- set memtotal = mem.split('/')[1]|int(1)-%}
-          {{ (memfree*100/memtotal)| round(2) }}
+          {{ (memfree*100/memtotal)| int }}
     unit_of_measurement: '%'
     state_class: measurement
     icon: mdi:memory
