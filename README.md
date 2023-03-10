@@ -5,6 +5,9 @@
 
 - **[Making Keenetic as wireguard server for Oracle Cloud](https://github.com/ntguest/instructions/blob/main/wireguard-oracle.md)**
 
+- **[Keenetic in Home Assistamt](https://github.com/ntguest/instructions/blob/main/keenetic-home-assistant.md)**
+
+
 
 
 [![Donate](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
