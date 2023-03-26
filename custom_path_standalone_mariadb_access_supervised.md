@@ -157,3 +157,10 @@ value
 
 ![image](https://user-images.githubusercontent.com/69485846/177888525-249279d1-e186-477b-a470-6ddfe77f3409.png)
 
+
+
+
+
+[![Donate](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
+[![Donate](https://img.shields.io/badge/donate-Yandex-blueviolet.svg)](https://yoomoney.ru/to/410011383527168)
+[![Donate](https://img.shields.io/badge/ask_in-Telegram-blue.svg)](https://t.me/avkulikoff)
