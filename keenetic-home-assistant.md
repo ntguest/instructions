@@ -73,3 +73,11 @@ automation:
 
 
 http://docs.help.keenetic.com/cli/3.1/ru/cli_manual_kn-1711_ru.pdf
+
+
+
+
+
+[![Donate](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
+[![Donate](https://img.shields.io/badge/donate-Yandex-blueviolet.svg)](https://yoomoney.ru/to/410011383527168)
+[![Donate](https://img.shields.io/badge/ask_in-Telegram-blue.svg)](https://t.me/avkulikoff)
