@@ -68,3 +68,9 @@ pct restore 107 /root/vzdump-lxc-103-2021_12_10-16_49_32.vma -storage local-lvm
 
 Как видим, перенос виртуальных машин или контейнеров между узлами Proxmox VE достаточно прост и универсален, все что вам нужно - это свободное место и знание нескольких команд.
 
+
+
+
+[![Donate](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
+[![Donate](https://img.shields.io/badge/donate-Yandex-blueviolet.svg)](https://yoomoney.ru/to/410011383527168)
+[![Donate](https://img.shields.io/badge/ask_in-Telegram-blue.svg)](https://t.me/avkulikoff)
