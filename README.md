@@ -7,6 +7,7 @@
 
 - **[Keenetic in Home Assistant](https://github.com/ntguest/instructions/blob/main/keenetic-home-assistant.md)**
 
+- **[VMs & LXCs transfer in Proxmox](https://github.com/ntguest/instructions/blob/main/proxmox-transfer.md)**
 
 
 
