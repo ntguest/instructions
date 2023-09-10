@@ -9,6 +9,8 @@
 
 - **[VMs & LXCs transfer in Proxmox](https://github.com/ntguest/instructions/blob/main/proxmox-transfer.md)**
 
+- **[Proxmox for Orange Pi 3B](https://github.com/ntguest/instructions/blob/main/orange_pi_3b_proxmox.md)**
+
 
 
 [![Donate](https://img.shields.io/badge/donate-Beer-yellow.svg)](https://www.buymeacoffee.com/ntguest)
